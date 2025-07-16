@@ -9,10 +9,10 @@ import UserRegister from './screens/UserRegister';
 function App() {
   return <div>
     {/* <About /> */}
-    {/* <Contact /> */}
-    {/* <Unordered/> */}
+    <Contact />
+    <Unordered/>
     {/* <Register /> */}
-    {/* <Registers/> */}
+    <Registers/>
     <UserRegister/>
 
     {/* <UserList/> */}
