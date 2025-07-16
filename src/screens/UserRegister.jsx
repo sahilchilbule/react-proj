@@ -62,7 +62,7 @@ function UserRegister() {
                     {calculation}
                </div>
           </div>
-    </div>
+    </div>     
     
   )
 }
